@@ -1,0 +1,16 @@
+body {
+  background-color: teal;
+}
+
+h1 {
+  color: #c2b280;
+  text-align: center;
+  font-size: xx-large;
+}
+
+li {
+  display: inline-block;
+  font-size: x-large;
+  align-content: center;
+
+}
