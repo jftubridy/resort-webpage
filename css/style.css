@@ -1,7 +1,13 @@
 .jal {
-  color: aqua;
+  color: darkblue;
 
 }
 img {
-  width:50%
+  width:50%;
+  float: right;
+}
+
+.sidebar{
+  float:left;
+
 }
